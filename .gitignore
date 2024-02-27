@@ -229,6 +229,7 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+ClientApp/.angular/cache/*
 ClientApp/.angular/cache/15.2.7/angular-webpack/615e2f7222472f1d9af3603eb8e9d49a5866af10/0.pack
 ClientApp/.angular/cache/15.2.7/angular-webpack/615e2f7222472f1d9af3603eb8e9d49a5866af10/1.pack
 ClientApp/.angular/cache/15.2.7/angular-webpack/615e2f7222472f1d9af3603eb8e9d49a5866af10/2.pack
@@ -609,3 +610,18 @@ ClientApp/.angular/cache/15.2.7/babel-webpack/fe4d52f92c6b9f85ba0241446a6478fbcb
 ClientApp/.angular/cache/15.2.7/babel-webpack/feec0aaa73fce7f1b70354ec5485d66ef09b132d1fba19d23a7685e28fd8acb1.json
 ClientApp/.angular/cache/15.2.7/babel-webpack/ff60454d235039a29b5873ce3848d4879bb58f7f0fe7ea4e121b67b0ffd4e6fa.json
 ClientApp/.angular/cache/15.2.7/babel-webpack/ffea8530b978acfbb2fda0c636ff7cd3974335bc9825319a9ba6a11f9e0597f4.json
+ClientApp/.angular/cache/15.2.7/babel-webpack/48a5060a3c21644d98e0ab729ba00403b3fc811c616ec44171b3a87836f27bb3.json
+ClientApp/.angular/cache/15.2.7/babel-webpack/967ba058b26fe5fd3f555659a2b0cd35f796d032c518d93746bf16457071fa81.json
+ClientApp/.angular/cache/15.2.7/babel-webpack/63164a43a01986446bb540137fcb152018a8503e724205272e21119d31af44ef.json
+ClientApp/.angular/cache/15.2.7/babel-webpack/64278e483fe791c14e1cbbbd4d0c480a7a07befbfa3c98ce6d7a50d5b5a31ebc.json
+ClientApp/.angular/cache/15.2.7/babel-webpack/b1b2402de0e2bab8f0c0bfa186172edaa6c8fe684a0beb7e4a88eec6e8c0a86c.json
+ClientApp/.angular/cache/15.2.7/babel-webpack/b674054c7eb9fd1da5105ace2135c65eeeb2e960cf5ed9f3ebe616f4ebb9b4ad.json
+ClientApp/.angular/cache/15.2.7/babel-webpack/bd40e1b23080300b157ff9efb53403b32cd1ede5bf4339c7cb94914c82309693.json
+ClientApp/.angular/cache/15.2.7/babel-webpack/c2ce34c964799bceea216dfb75d0f6966cc6ba8ffb0717b005b8a819adff86a7.json
+ClientApp/.angular/cache/15.2.7/babel-webpack/cbddd277ac13cd58a98f9507cc52f431c844fa0c8bea94667abd58112829db56.json
+ClientApp/.angular/cache/15.2.7/babel-webpack/dd59a3ef677393df91afcb7d1e2b4afab3f55189e938a6695c8d6d1922e689d5.json
+ClientApp/.angular/cache/15.2.7/babel-webpack/edc4f1057fa372690f3a9cdacbcf2cfce0872feae277f70f6976b8bd6c75529b.json
+ClientApp/.angular/cache/15.2.7/babel-webpack/f1dc2c63519d9b351b530c7cbed4b89c361d9a5e028491459b260e5a8660446c.json
+ClientApp/.angular/cache/15.2.7/babel-webpack/f7be7185ca6ab421f92cdbec7cdc8b11440ef8e2c0d180f5f45d4d1803953e33.json
+ClientApp/.angular/cache/15.2.7/babel-webpack/f189e675bbb0329a3d6215f9935bddbbc8a33c5a56f8f4073281cc32a9d98779.json
+ClientApp/.angular/cache/15.2.7/babel-webpack/fcce51d8eca47dc8414e831bb31c6ed30a3bdda5685a7bea5f84246da23c341e.json
