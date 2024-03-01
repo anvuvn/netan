@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using netan.Persistence;
 
@@ -11,9 +12,11 @@ using netan.Persistence;
 namespace netan.Migrations
 {
     [DbContext(typeof(NetanDbContext))]
-    partial class NetanDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240227050136_RenameVehicleFeatures")]
+    partial class RenameVehicleFeatures
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

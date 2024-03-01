@@ -7,6 +7,7 @@ namespace netan.Models
     [Table("Models")]
     public class Model
     {
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
 
         [Required]
